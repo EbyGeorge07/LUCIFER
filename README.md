@@ -3,7 +3,7 @@
   <img src="assets/logo(1).jpg" alt="Akbotmakersnew Logo">
 </p>
 <h1 align="center">
-  <b>LUCIFER BOT</b>
+  <b>ASHTG BOT</b>
 </h1>
 
 ## New Features
